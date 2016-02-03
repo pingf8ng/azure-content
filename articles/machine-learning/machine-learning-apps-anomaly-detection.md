@@ -51,7 +51,7 @@ The figure below shows an example of anomalies detected in a times series using 
 
 The API takes 2 input parameters 
 
-1. "data" represents input time series in the format: t1=v1;t2=v2;... 
+1. "data" represents input time series in this format: t1=v1;t2=v2;t3=v3... 
 
  
 	Sample data: 
